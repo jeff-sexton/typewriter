@@ -1,4 +1,4 @@
-// Paired with @hernandez87v
+// Paired with @hernandez87v and @jeff-sexton
 
 const sentence = "hello there from lighthouse labs";
 
